@@ -7,9 +7,6 @@ The purpose of this repository is to provide support for building the CSI-enable
 The code presented here comprises of a modified version of the Linux kernel, such as the firmware command, and error lines of the original baseline. The modifications were made by examining the code provided by [dhalperi/linux-80211n-csitool](https://github.com/dhalperi/linux-80211n-csitool) and adapting them to more recent Linux kernel versions **- iwlwifi** and **wlp1s0** modules. The building and installation instructions were taken from [the original Linux 802.11n CSI Tool website](https://dhalperi.github.io/linux-80211n-csitool/) and adapted accordingly.
 
 ## Contributors and Project Members
-**Jungtae Kang (Undergraduate student, Supporter)**
-- Supporting the generation of CSI samples and Camera images.
-
 **Youngwoo Oh (Master's student, Project Leader from May 2023 to Feb. 2024)**
 - developer of RF and Camera sensor fusion and HW configuration.
 
@@ -21,3 +18,6 @@ The code presented here comprises of a modified version of the Linux kernel, suc
 
 **Manal Mosharaf (Master's student, Project Member)**
 - Engaged in developing the Student network in the multi-modal AI model and optimizing the neural network.
+
+**Jungtae Kang (Undergraduate student, Supporter)**
+- Supporting the generation of CSI samples and Camera images.
