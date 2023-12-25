@@ -44,6 +44,8 @@ $ make -C linux-80211n-csitool-supplementary/netlink
 ## 3.:
 ```ruby
 $ sudo modprobe -r iwlwifi mac80211
+```
+```ruby
 $ sudo modprobe iwlwifi connector_log=0x1
 ```
 
@@ -60,7 +62,11 @@ $ sudo cat /sys/kernel/debug/ieee80211/phy0/netdev:wlp1s0/stations/XX:XX:XX:XX:X
 ## 6.:
 ```ruby
 $ echo 0x8009 | sudo tee /sys/kernel/debug/ieee80211/phy0/netdev:wlp1s0/stations/XX:XX:XX:XX:XX:XX/rate_scale_table
+```
+```ruby
 $ echo 0x8009 | sudo tee /sys/kernel/debug/ieee80211/phy0/iwlwifi/iwldvm/debug/bcast_tx_rate
+```
+```ruby
 $ echo 0x8009 | sudo tee /sys/kernel/debug/ieee80211/phy0/iwlwifi/iwldvm/debug/monitor_tx_rate
 ```
 
