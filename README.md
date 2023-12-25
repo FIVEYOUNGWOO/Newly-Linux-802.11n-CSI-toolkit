@@ -10,14 +10,19 @@ The code presented here comprises of a modified version of the Linux kernel, suc
 **Youngwoo Oh (Master's student, Project Leader from May 2023 to Feb. 2024)**
 - developer of RF and Camera sensor fusion and HW configuration.
 
+
 **Islam Helemy (Ph.D. student, Project Member)**
 - Responsible for the development of the Multi-modal AI and the preprocessing of RF signals and camera sensors.
+
 
 **Iftikhar Ahmad (Ph.D. student, Project Member)**
 - Focused on developing the Teacher network in the multi-modal AI model and optimizing the neural network.
 
+
 **Manal Mosharaf (Master's student, Project Member)**
 - Engaged in developing the Student network in the multi-modal AI model and optimizing the neural network.
 
+
 **Jungtae Kang (Undergraduate student, Supporter)**
 - Supporting the generation of CSI samples and Camera images.
+
