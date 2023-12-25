@@ -27,6 +27,6 @@ The code presented here comprises of a modified version of the Linux kernel, suc
 ## Kernel version:
 Before proceeding further, you need to check the version of your kernel. It should be **4.15**, otherwise the commands below won't work. The following command will print that information:
 
-'''ruby
+```ruby
 $ uname -r
-'''
+```
