@@ -19,7 +19,7 @@ The code presented here comprises of a modified version of the Linux kernel, suc
 ### Manal Mosharaf (Master's student, Project Member)
 - Engaged in developing the Student network in the multi-modal AI model and optimizing the neural network.
 
-### Jungtae Kang (Undergraduate student, Supporter)
+### Jungtae Kang (Undergraduate student, Contributor)
 - Supporting the generation of CSI samples and Camera images.
 
 # Installation Instructions
