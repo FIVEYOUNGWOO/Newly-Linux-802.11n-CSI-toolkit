@@ -77,7 +77,7 @@ $ sudo dhclient wlp1s0
 
 ## 8.:
 ```ruby
-$ sudo linux-80211n-csitool-supplementary/netlink/log_to_file csi.dat
+$ sudo linux-80211n-csitool-supplementary/netlink/newly_syn_log_to_file file_name.dat
 ```
 
 ## 9.:
